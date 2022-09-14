@@ -1,3 +1,6 @@
+监控指标汇总：https://awesome-prometheus-alerts.grep.to/rules#kubernetes
+
+
 1.3. Docker containers : google/cAdvisor (6 rules)[copy section]
 # 1.3.1. Container killed
 A container has disappeared[copy]
